@@ -1,10 +1,6 @@
 # PAPENS REFORMENS - NITRO RUSH
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=unity,blender,cs)](https://skillicons.dev)
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,blender,cs" />
