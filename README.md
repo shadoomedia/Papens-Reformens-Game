@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,blender,cs,ps" />
+    <img src="https://skillicons.dev/icons?i=unity,blender,vscode,cs,ps" />
   </a>
 </p>
 
