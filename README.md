@@ -2,8 +2,14 @@
 
 
 
-![skills(https://skills.thijs.gg/icons?i=unity,cs,blender)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,cs)](https://skillicons.dev)
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,blender,cs" />
+  </a>
+</p>
 
 Papens Reformens - Nitro Rush is a game developed while taking a 2D/3D Animation course at IEFP.
 
