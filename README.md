@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,blender,cs" />
+    <img src="https://skillicons.dev/icons?i=unity,blender,cs,ps" />
   </a>
 </p>
 
@@ -14,8 +14,8 @@ It took us a week of learning C# and Unity basics, following [this](https://www.
 
 
 #### Game made by: 
-- Jorge Fernandes
-- Camila Pinto
+- [Jorge Fernandes](https://www.linkedin.com/in/jorge-fernandes-dev/)
+- [Camila Pinto](https://www.linkedin.com/in/camila-pinto-b1a53a206/)
 - Isabel Paiva
 - Guilherme Oliveira
 
